@@ -1,7 +1,7 @@
 {
   "name": "@stagas/wasm-sourcemap",
   "author": "stagas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fix AssemblyScript generated wasm binary sourcemaps.",
   "repository": {
     "type": "git",
